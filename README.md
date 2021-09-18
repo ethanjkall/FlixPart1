@@ -39,7 +39,7 @@ I had difficulty with getting the spacing between posters in the collection view
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/YGRnF7pa.gif" width=250><br>
+<img src="https://media.giphy.com/media/RFiO5iOMWV1404vCZi/giphy.gif?cid=790b76110895ddff9fd3769a2c5d2ad31a8ab96a11c966b0&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
